@@ -1,0 +1,27 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Backend
+backend/target/
+
+# Environment files
+.env
+.env.*
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Java compiled files
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
